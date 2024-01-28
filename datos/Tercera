@@ -1,0 +1,13 @@
+tipo:CORRIENTE:14500:1250.0
+tipo:DIESEL:9357:1000.0
+tipo:EXTRA:21090:312.0
+tipo:PLUS:16251:625.0
+surtidor:German:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+surtidor:Maria:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+surtidor:Daniel:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+surtidor:Jose:CORRIENTE:0.0:DIESEL:0.0:EXTRA:0.0:PLUS:0.0
+empleado:Santiago:0
+empleado:Jose:0
+empleado:German:0
+empleado:Daniel:0
+empleado:Maria:0
